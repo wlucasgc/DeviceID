@@ -1,0 +1,18 @@
+{
+    "name": "",
+    "version": "",
+    "keywords": "",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/"
+    },
+    "authors": {
+        "name": "",
+        "email": "",
+        "maintainer": true
+    },
+    "frameworks": "arduino",
+    "platforms": "*",
+    "license": "MIT"
+}
