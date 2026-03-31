@@ -1,15 +1,15 @@
 {
-    "name": "",
-    "version": "",
-    "keywords": "",
-    "description": "",
+    "name": "DeviceID",
+    "version": "1.0.0",
+    "keywords": "device, id, mac, address",
+    "description": "A class for represent and read device ID (MAC Address) of ESP32 boards",
     "repository": {
         "type": "git",
-        "url": "https://github.com/"
+        "url": "https://github.com/wlucasgc/DeviceID"
     },
     "authors": {
-        "name": "",
-        "email": "",
+        "name": "Weber Lucas",
+        "email": "wlucasgc@gmail.com",
         "maintainer": true
     },
     "frameworks": "arduino",
